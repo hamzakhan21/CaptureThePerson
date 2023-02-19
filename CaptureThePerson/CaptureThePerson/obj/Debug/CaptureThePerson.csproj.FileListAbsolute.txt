@@ -1,0 +1,17 @@
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\bin\Debug\CaptureThePerson.exe.config
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\bin\Debug\CaptureThePerson.exe
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\bin\Debug\CaptureThePerson.pdb
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\bin\Debug\AForge.dll
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\bin\Debug\AForge.Video.dll
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\bin\Debug\System.Drawing.Common.dll
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\bin\Debug\AForge.xml
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\bin\Debug\AForge.Video.xml
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\bin\Debug\System.Drawing.Common.xml
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\obj\Debug\CaptureThePerson.csproj.AssemblyReference.cache
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\obj\Debug\CaptureThePerson.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\obj\Debug\CaptureThePerson.csproj.CoreCompileInputs.cache
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\obj\Debug\CaptureThePerson.csproj.CopyComplete
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\obj\Debug\CaptureThePerson.exe
+C:\Users\HAMZA\source\repos\CaptureThePerson\CaptureThePerson\obj\Debug\CaptureThePerson.pdb
